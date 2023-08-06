@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card-bg {
+    background-image: url("https://images.pexels.com/photos/3738088/pexels-photo-3738088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-top {
+    border-style: solid;
+    border-color: #e6e1e1;
+    border-width: 10px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.card-head {
+    font-family: "serif";
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.card-para {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #7e7e87;
+
+}
+
+.card-button {
+    border-radius: 8px;
+    font-weight: bold;
+    background-color: #282833;
+    border: 0px;
+}
+
+.card-bottom {
+    background-color: black;
+    color: white;
+    font-family: "Bree";
+    font-style: oblique;
+    border-style: solid;
+    text-align: center;
+}
+
+.card-top-p1 {
+    background-color: white;
+    color: black;
+    border-style: solid;
+    border-width: 10px;
+    padding: 10px;
+}
+
+.card-image-top-p1 {
+    height: 10vh;
+    width: 20vw;
+}
+
+.card-head-p1 {
+    font-family: "Bree";
+    text-decoration: underline;
+    font-style: oblique;
+    font-weight: bold;
+    color: #381104;
+}
+
+.card-buttom-p1 {
+    padding: 20px;
+    background-image: url("https://images.pexels.com/photos/4219101/pexels-photo-4219101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height: 112vh;
+}
+
+.card-buttom-head-p1 {
+    color: white;
+    font-family: "Bree";
+    font-weight: bold;
+    background-color: green;
+    text-align: center;
+    border-radius: 12px;
+    border-style: solid;
+}
+
+.card-down-p1 {
+    background-color: black;
+    color: white;
+    font-family: "Bree";
+    font-style: oblique;
+    border-style: solid;
+    text-align: center;
+    margin: 10px;
+}
+
+.card-bg-buttom-p1 {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 12px;
+    margin: 10px;
+    width: 90vw;
+}
+
+.card-image-p1 {
+    height: 150px;
+    width: 150px;
+    border-radius: 12px;
+}
+
+.card-para-buttom-p1 {
+    color: #5f6269;
+    font-weight: bold;
+    margin: 10px;
+    text-align: center;
+    font-family: "roboto";
+    text-decoration: underline;
+}
+
+.card-margin-p1 {
+    margin: 30px;
+}
+
+.card-button-p1 {
+    background-color: green;
+    border: 0px;
+    margin: 5px;
+}
+
+
+.card-top {
+    background-color: white;
+    color: black;
+    border-style: solid;
+    border-width: 10px;
+    padding: 10px;
+}
+
+.card-image {
+    height: 10vh;
+    width: 20vw;
+}
+
+.card-head {
+    font-family: "Bree";
+    text-decoration: underline;
+    font-style: oblique;
+    font-weight: bold;
+    color: #273336;
+}
+
+.card-bg-p2 {
+    background-image: URL("https://images.pexels.com/photos/3738082/pexels-photo-3738082.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height: 500vh;
+
+    padding: 20px;
+}
+
+.card-head-p2 {
+    color: black;
+    Font-family: "Copperplate", "Fantasy ";
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 10px;
+}
+
+.bg-card {
+    background-color: white;
+    padding: 5px;
+}
+
+.card-image-mainpage {
+    height: 40vh;
+    margin: 20px;
+    width: 80vw;
+    border-radius: 8px;
+}
+
+.card-image-mainpage-c {
+    height: 80vh;
+    margin: 20px;
+    border-radius: 8px;
+    width: 83vw;
+}
+
+.card-bg-p2-c {
+    background-image: URL("https://images.pexels.com/photos/3738082/pexels-photo-3738082.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height: 300vh;
+
+    padding: 20px;
+}
